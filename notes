@@ -1,0 +1,8 @@
+IE restrictions:
+Polyfill JSON.stringify
+No NG tag. Dont use ng directives in the tag format rather use it in the attribute form
+
+
+
+
+JSON filter is usually used for debugging.
